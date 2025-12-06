@@ -1,0 +1,62 @@
+{
+  "extracted_values": {
+    "Fasting Blood Glucose": {
+      "value": "145 mg/dL",
+      "status": "high"
+    },
+    "HbA1c": {
+      "value": "7.8%",
+      "status": "high"
+    }
+  },
+  "abnormalities": {
+    "Fasting Blood Glucose": "High blood sugar can lead to diabetes",
+    "HbA1c": "Indicates poor blood sugar control over time"
+  },
+  "explanation": "The report shows elevated blood glucose and cholesterol levels that require attention through diet and lifestyle changes.",
+  "diet_plan_1_week": {
+    "day1": {
+      "breakfast": "Vegetable poha with green chutney and masala chai",
+      "lunch": "2 jowar roti with palak dal, cucumber raita, and salad",
+      "dinner": "Moong dal khichdi with curd and steamed vegetables",
+      "snacks": "Roasted makhana (fox nuts) with light spices"
+    },
+    "day2": {
+      "breakfast": "Methi thepla with curd and tomato chutney",
+      "lunch": "Brown rice with rajma curry, mixed vegetable sabzi, and buttermilk",
+      "dinner": "2 multigrain roti with bottle gourd curry and dal",
+      "snacks": "Sprouted moong with onion, tomato, and lemon"
+    },
+    "day3": {
+      "breakfast": "Idli with sambar and coconut chutney",
+      "lunch": "Bajra roti with baingan bharta, dal, and salad",
+      "dinner": "Vegetable daliya (broken wheat) with mixed vegetables",
+      "snacks": "Roasted chana (chickpeas) with cucumber slices"
+    },
+    "day4": {
+      "breakfast": "Oats upma with vegetables and peanuts",
+      "lunch": "2 ragi roti with mixed dal, bhindi sabzi, and curd",
+      "dinner": "Moong dal chilla with mint chutney and vegetable soup",
+      "snacks": "Fresh fruit chaat with chaat masala (no sugar)"
+    },
+    "day5": {
+      "breakfast": "Besan chilla with coriander chutney",
+      "lunch": "Quinoa pulao with chole curry and raita",
+      "dinner": "2 wheat roti with lauki chana dal and sabzi",
+      "snacks": "Handful of almonds and walnuts"
+    },
+    "day6": {
+      "breakfast": "Dosa with vegetable sambar and peanut chutney",
+      "lunch": "Jowar bhakri with zunka, green vegetable, and buttermilk",
+      "dinner": "Vegetable khichdi with masoor dal and curd",
+      "snacks": "Roasted peanuts with tea (no sugar)"
+    },
+    "day7": {
+      "breakfast": "Ragi dosa with tomato chutney",
+      "lunch": "2 multigrain roti with chana masala, palak sabzi, and salad",
+      "dinner": "Vegetable daliya with mixed dal tadka",
+      "snacks": "Bhel puri made with puffed rice and vegetables (light oil)"
+    }
+  },
+  "disclaimer": "यह चिकित्सा सलाह नहीं है। कृपया किसी लाइसेंस प्राप्त स्वास्थ्य पेशेवर से परामर्श करें। This is not medical advice. Consult a licensed healthcare professional."
+}
