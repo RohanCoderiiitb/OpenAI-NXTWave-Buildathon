@@ -5,58 +5,101 @@
       "status": "high"
     },
     "HbA1c": {
-      "value": "7.8%",
+      "value": "7.8 %",
       "status": "high"
+    },
+    "Total Cholesterol": {
+      "value": "220 mg/dL",
+      "status": "high"
+    },
+    "LDL Cholesterol": {
+      "value": "165 mg/dL",
+      "status": "high"
+    },
+    "HDL Cholesterol": {
+      "value": "50 mg/dL",
+      "status": "normal"
+    },
+    "Triglycerides": {
+      "value": "130 mg/dL",
+      "status": "normal"
+    },
+    "Hemoglobin": {
+      "value": "10.5 g/dL",
+      "status": "low"
+    },
+    "Red Blood Cell Count (RBC)": {
+      "value": "4.2 10^6/μL",
+      "status": "normal"
+    },
+    "White Blood Cell Count (WBC)": {
+      "value": "6.8 10^3/μL",
+      "status": "normal"
+    },
+    "Platelet Count": {
+      "value": "250 10^3/μL",
+      "status": "normal"
+    },
+    "Creatinine": {
+      "value": "0.9 mg/dL",
+      "status": "normal"
+    },
+    "BUN": {
+      "value": "15 mg/dL",
+      "status": "normal"
     }
   },
   "abnormalities": {
-    "Fasting Blood Glucose": "High blood sugar can lead to diabetes",
-    "HbA1c": "Indicates poor blood sugar control over time"
+    "Fasting Blood Glucose": "Aapka fasting sugar level badha hua hai, jo diabetes ki taraf ishara karta hai.",
+    "HbA1c": "Yeh test pichle 2-3 mahine ka average sugar level batata hai, aur yeh bhi high hai. Isse diabetes confirm hota hai.",
+    "Total Cholesterol": "Aapke khoon mein total cholesterol ki matra zyada hai, jisse dil ki bimariyon ka khatra badh sakta hai.",
+    "LDL Cholesterol": "Isko 'bad' cholesterol bhi kehte hain. Iska badha hua level aarteries (naso) mein blockage kar sakta hai.",
+    "Hemoglobin": "Aapke khoon mein Hemoglobin kam hai, jise anemia (khoon ki kami) kehte hain. Isse thakawat aur kamzori ho sakti hai."
   },
-  "explanation": "The report shows elevated blood glucose and cholesterol levels that require attention through diet and lifestyle changes.",
+  "explanation": "Aapki report ke anusaar, aapko teen mukhya samasyaayein hain: (1) High blood sugar, jo ki diabetes hai. (2) High cholesterol, jise dyslipidemia kehte hain, isse dil ke rog ka khatra badhta hai. (3) Hemoglobin ki kami, jise mild anemia kehte hain, isse kamzori mehsus ho sakti hai. Aapki kidney function normal hai. In sabhi cheezon ko control karne ke liye diet aur lifestyle mein badlav bahut zaroori hai.",
   "diet_plan_1_week": {
     "day1": {
-      "breakfast": "Vegetable poha with green chutney and masala chai",
-      "lunch": "2 jowar roti with palak dal, cucumber raita, and salad",
-      "dinner": "Moong dal khichdi with curd and steamed vegetables",
-      "snacks": "Roasted makhana (fox nuts) with light spices"
+      "breakfast": "1 bowl vegetable dalia with a handful of almonds.",
+      "lunch": "2 multigrain rotis, 1 katori mixed vegetable sabzi (gajar, beans, matar), 1 katori masoor dal, and a bowl of cucumber salad.",
+      "dinner": "1 bowl of lauki (bottle gourd) soup, 1 small bowl of quinoa khichdi with vegetables.",
+      "snacks": "1 apple and a glass of buttermilk (chhaas) in the evening."
     },
     "day2": {
-      "breakfast": "Methi thepla with curd and tomato chutney",
-      "lunch": "Brown rice with rajma curry, mixed vegetable sabzi, and buttermilk",
-      "dinner": "2 multigrain roti with bottle gourd curry and dal",
-      "snacks": "Sprouted moong with onion, tomato, and lemon"
+      "breakfast": "2 pieces of moong dal chilla with mint chutney.",
+      "lunch": "1 bowl of brown rice, 1 katori palak paneer (low-fat paneer, less oil), 1 katori chana dal, and tomato-onion salad.",
+      "dinner": "2 jowar rotis with 1 katori tori (ridge gourd) sabzi and a small bowl of curd.",
+      "snacks": "A bowl of mixed sprouts salad in the evening."
     },
     "day3": {
-      "breakfast": "Idli with sambar and coconut chutney",
-      "lunch": "Bajra roti with baingan bharta, dal, and salad",
-      "dinner": "Vegetable daliya (broken wheat) with mixed vegetables",
-      "snacks": "Roasted chana (chickpeas) with cucumber slices"
+      "breakfast": "1 bowl of oats upma with lots of vegetables.",
+      "lunch": "2 ragi rotis, 1 katori methi aloo (less potato, more methi), 1 katori sambar, and a side of grated carrot salad.",
+      "dinner": "1 bowl of mixed vegetable and lentil soup, with a small portion of roasted paneer tikka (homemade).",
+      "snacks": "A pear and a handful of roasted makhana."
     },
     "day4": {
-      "breakfast": "Oats upma with vegetables and peanuts",
-      "lunch": "2 ragi roti with mixed dal, bhindi sabzi, and curd",
-      "dinner": "Moong dal chilla with mint chutney and vegetable soup",
-      "snacks": "Fresh fruit chaat with chaat masala (no sugar)"
+      "breakfast": "1 bowl of poha with peanuts and curry leaves, garnished with lemon.",
+      "lunch": "2 bajra rotis, 1 katori beetroot sabzi (for iron), 1 katori urad dal, and a bowl of kachumber salad.",
+      "dinner": "1 bowl of vegetable clear soup, followed by 1 bowl of paneer bhurji with 1 multigrain roti.",
+      "snacks": "A guava and a glass of unsweetened lassi."
     },
     "day5": {
-      "breakfast": "Besan chilla with coriander chutney",
-      "lunch": "Quinoa pulao with chole curry and raita",
-      "dinner": "2 wheat roti with lauki chana dal and sabzi",
-      "snacks": "Handful of almonds and walnuts"
+      "breakfast": "2 small besan (gram flour) theplas with a small bowl of low-fat curd.",
+      "lunch": "1 bowl of vegetable pulao (made with brown rice), 1 katori kadhi (less oil), and a side of sprout salad.",
+      "dinner": "2 small oats uttapam with mixed vegetable topping and a bowl of tomato rasam.",
+      "snacks": "A handful of walnuts and 2-3 dates (for iron)."
     },
     "day6": {
-      "breakfast": "Dosa with vegetable sambar and peanut chutney",
-      "lunch": "Jowar bhakri with zunka, green vegetable, and buttermilk",
-      "dinner": "Vegetable khichdi with masoor dal and curd",
-      "snacks": "Roasted peanuts with tea (no sugar)"
+      "breakfast": "Scrambled tofu (or paneer) with onions and tomatoes, with 1 slice of whole wheat toast.",
+      "lunch": "2 jowar-wheat mix rotis, 1 katori bhindi (okra) sabzi, 1 katori arhar dal, and a bowl of green salad.",
+      "dinner": "1 bowl of pumpkin soup, with a side of sauteed green beans and carrots.",
+      "snacks": "An orange and a handful of roasted chana."
     },
     "day7": {
-      "breakfast": "Ragi dosa with tomato chutney",
-      "lunch": "2 multigrain roti with chana masala, palak sabzi, and salad",
-      "dinner": "Vegetable daliya with mixed dal tadka",
-      "snacks": "Bhel puri made with puffed rice and vegetables (light oil)"
+      "breakfast": "1 bowl of ragi porridge cooked with milk (or water) and topped with chia seeds.",
+      "lunch": "1 bowl of sambar rice (made with brown rice), 1 katori cabbage poriyal (stir-fry), and a papad (roasted).",
+      "dinner": "2 multigrain rotis with 1 katori baingan bharta (roasted eggplant, less oil) and a bowl of cucumber raita.",
+      "snacks": "A bowl of papaya and a cup of green tea."
     }
   },
-  "disclaimer": "यह चिकित्सा सलाह नहीं है। कृपया किसी लाइसेंस प्राप्त स्वास्थ्य पेशेवर से परामर्श करें। This is not medical advice. Consult a licensed healthcare professional."
+  "disclaimer": "यह चिकित्सा सलाह नहीं है। कृपया किसी लाइसेंस प्राप्त स्वास्थ्य पेशेवर से परामर्श करें। This is not medical advice."
 }
